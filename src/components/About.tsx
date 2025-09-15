@@ -36,7 +36,7 @@ const About: React.FC = () => {
             </p>
             
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-              Currently maintaining a CGPA of 9.2/10, I've gained hands-on experience through internships 
+              Currently maintaining a CGPA of 9.7/10, I've gained hands-on experience through internships 
               and personal projects. I'm actively involved in IEEE volunteer activities and enjoy 
               participating in hackathons and tech events. When not coding, I love playing football, 
               dancing, and participating in sports competitions.
